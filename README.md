@@ -6,3 +6,9 @@ Linkedin:  https://www.linkedin.com/in/abhishekpadala/
 <P>It does data merging and joining with high performance</P>
 
 -fast -flexible - free(open source) - powerful
+
+<b>DATA FRAME</b>: is a two dimentional array.
+ex: spreadsheet with rows and columns.
+
+
+<b></b>
